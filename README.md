@@ -5,7 +5,7 @@ Guitarをモチーフにしたゲームです。<br>
 企画から実装、またSE・BGMもすべて自主制作しております。<br>
 [ここから遊べます](https://unityroom.com/games/guitar_demo)
 
-https://github.com/user-attachments/assets/c375fb3b-eb7c-43d1-b53b-18184cfc51e6
+https://github.com/user-attachments/assets/ff9bd1b6-f374-4fd2-9be3-980c85598034
 
 # 使用技術
 
