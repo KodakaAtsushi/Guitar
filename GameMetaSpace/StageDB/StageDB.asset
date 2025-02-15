@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d59df51444ba0d948b17295a55d9fc1c, type: 3}
+  m_Name: StageDB
+  m_EditorClassIdentifier: 
+  stages:
+  - noteNamesList_string:
+    - C
+    rollLimit: 1
+    playerPositions:
+    - {x: -2, y: 0, z: 1}
+    fretCount: 0
+    guitars:
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 1
+      fretIndices: 
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - D
+    rollLimit: 1
+    playerPositions:
+    - {x: 0, y: 0, z: 1}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 9
+      fretIndices: 
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - E
+    rollLimit: 5
+    playerPositions:
+    - {x: -3, y: 0, z: 3}
+    fretCount: 0
+    guitars:
+    - position: {x: 0, y: 0, z: -2}
+      splitCount: 5
+      fretIndices: 04000000
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - F
+    rollLimit: 1
+    playerPositions:
+    - {x: 0, y: 0, z: 1}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 2
+      fretIndices: 
+      isButtonEnable: 1
+  - noteNamesList_string:
+    - G
+    - A
+    - B
+    rollLimit: 3
+    playerPositions:
+    - {x: -3, y: 0, z: 2}
+    fretCount: 3
+    guitars:
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 15
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 15
+      fretIndices: 
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - C, G
+    rollLimit: 2
+    playerPositions:
+    - {x: -0.6, y: 0, z: 2}
+    - {x: 0.6, y: 0, z: 2}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 2
+      fretIndices: 01000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 2
+      fretIndices: 
+      isButtonEnable: 1
+  - noteNamesList_string:
+    - C
+    - C, G
+    - F
+    rollLimit: 5
+    playerPositions:
+    - {x: -3.3, y: 0, z: 2}
+    - {x: 0, y: 0, z: 2}
+    - {x: -3, y: 0, z: 0}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 3
+      fretIndices: 0100000002000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 2
+      fretIndices: 
+      isButtonEnable: 1
+  - noteNamesList_string:
+    - G
+    rollLimit: 1
+    playerPositions:
+    - {x: 2, y: 0, z: 1}
+    - {x: -2, y: 0, z: 0}
+    fretCount: 0
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 1
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 1
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -1}
+      splitCount: 3
+      fretIndices: 0100000002000000
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - E
+    - C, A
+    - E
+    - C, E
+    rollLimit: 4
+    playerPositions:
+    - {x: -2, y: 0, z: 1}
+    - {x: 0, y: 0, z: 0}
+    fretCount: 0
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 1
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 4
+      fretIndices: 03000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -1}
+      splitCount: 5
+      fretIndices: 01000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -2}
+      splitCount: 5
+      fretIndices: 03000000
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - C
+    - C, A
+    rollLimit: 2
+    playerPositions:
+    - {x: -2, y: 0, z: 2}
+    - {x: 2, y: 0, z: 1}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 2
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 4
+      fretIndices: 01000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -1}
+      splitCount: 5
+      fretIndices: 02000000
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - F
+    - C, E
+    - A
+    - F
+    rollLimit: 4
+    playerPositions:
+    - {x: 3, y: 0, z: 1}
+    - {x: 1, y: 0, z: 1}
+    fretCount: 1
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 5
+      fretIndices: 
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: 0}
+      splitCount: 4
+      fretIndices: 03000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -1}
+      splitCount: 5
+      fretIndices: 02000000
+      isButtonEnable: 0
+  - noteNamesList_string:
+    - C
+    - G
+    - C, E, G
+    rollLimit: 4
+    playerPositions:
+    - {x: 0, y: 0, z: 2}
+    - {x: -2, y: 0, z: 0}
+    - {x: 0, y: 0, z: 0}
+    fretCount: 0
+    guitars:
+    - position: {x: 0, y: 0, z: 1}
+      splitCount: 4
+      fretIndices: 03000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -1}
+      splitCount: 3
+      fretIndices: 01000000
+      isButtonEnable: 0
+    - position: {x: 0, y: 0, z: -3}
+      splitCount: 5
+      fretIndices: 02000000
+      isButtonEnable: 0
