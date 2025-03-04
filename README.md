@@ -1,8 +1,9 @@
 # 概要
 
-Guitarをモチーフにしたゲームです。<br>
-ブロックを操作し、指定された音を順番にすべてならすとクリアになります。<br>
+Guitarをモチーフにしたゲームの自作ソースコードです。<br>
+制作期間は2カ月です。<br>
 企画から実装、またSE・BGMもすべて自主制作しております。<br>
+
 [ここから遊べます](https://unityroom.com/games/guitar_demo)
 
 https://github.com/user-attachments/assets/ff9bd1b6-f374-4fd2-9be3-980c85598034
